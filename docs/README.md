@@ -11,3 +11,5 @@ The following sections are for developers
 - [Magisk Tools](tools.md)
 - [Internal Details](details.md)
 - [Android Booting Shenanigans](boot.md)
+- 
+https://topjohnwu.github.io/Magisk/changes.html#v270-202423
